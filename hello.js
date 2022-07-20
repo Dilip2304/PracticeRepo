@@ -1,9 +1,10 @@
+//deleted the previous code and added something
+
+let x=5;
+let y=7;
+
+let sum =x+y;
+console.log(sum);
 
 
 
-//perform simple code
-
-let x=10;
-x = x+5;
-
-console.log(x);
